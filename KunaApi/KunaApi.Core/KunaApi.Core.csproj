@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>KunaApi</RootNamespace>
+    <AssemblyName>KunaApi</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0.1</Version>
+    <Authors>temama / Partiolainen</Authors>
+    <Company />
+    <Description>Kuna.io API library</Description>
+    <PackageProjectUrl>https://github.com/Partiolainen/KunaApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Partiolainen/KunaApi</RepositoryUrl>
+    <PackageTags>Kuna Kuna.io trade btc uah</PackageTags>
+    <PackageReleaseNotes>Kuna.io API library</PackageReleaseNotes>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Partiolainen/KunaApi/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+</Project>
