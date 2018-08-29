@@ -3,7 +3,9 @@
 [Kuna.io](https://kuna.io)
 
 If this code was helpful for you and you want to say 'thanks', you are welcome.
+
 temama BTC: **1H1UFRLfcNkMLVWxDowrPgyWLesDyVnJuA**
+
 Partiolainen BTC: **172ebm5vgn91ztVmmzyDa29wKvzYzLhGqL**
 
 ## Usage
